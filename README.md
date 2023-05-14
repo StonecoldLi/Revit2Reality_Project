@@ -7,7 +7,8 @@ A project to transfer the wireframe style building into realistic style
 - Abstract
   - Collected the wireframe style buildings' data (Screenshot from the .rvt file) and architecture images in real life (part from https://www.kaggle.com/datasets/tompaulat/modern-architecture-100k-small-images) as the training dataset. By Using the sample code provided on Cycle-GAN Github, I get a after 200 times epoch (About 10 hours on RTX3080).
 
-- [image]!5_14/img/epoch001_real_A.png
+- 
+![image]5_14/img/epoch001_real_A.png
 - Things to improve
 - 5.14
   - The generated images are still have a distance to the real life images, part because:
