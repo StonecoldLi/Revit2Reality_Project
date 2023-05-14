@@ -9,7 +9,25 @@ A project to transfer the wireframe style building into realistic style
 
 - Training Process
   - epoch 1:
+
 ![image](5_14/img/epoch001_real_A.png)    ----> ![image](5_14/img/epoch001_fake_B.png)    ----> ![image](5_14/img/epoch001_rec_A.png)
+
+  - epoch 51:
+
+![image](5_14/img/epoch051_real_A.png)    ----> ![image](5_14/img/epoch051_fake_B.png)    ----> ![image](5_14/img/epoch051_rec_A.png)
+
+  - epoch 101:
+
+![image](5_14/img/epoch101_real_A.png)    ----> ![image](5_14/img/epoch101_fake_B.png)    ----> ![image](5_14/img/epoch101_rec_A.png)
+
+  - epoch 150:
+
+![image](5_14/img/epoch151_real_A.png)    ----> ![image](5_14/img/epoch151_fake_B.png)    ----> ![image](5_14/img/epoch151_rec_A.png)
+
+  - epoch 200:
+
+![image](5_14/img/epoch200_real_A.png)    ----> ![image](5_14/img/epoch200_fake_B.png)    ----> ![image](5_14/img/epoch200_rec_A.png)
+
 - Things to improve
 - 5.14
   - The generated images are still have a distance to the real life images, part because:
