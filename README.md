@@ -22,7 +22,7 @@ A project to transfer the wireframe style building into realistic style
 
   - epoch 150:
 
-![image](5_14/img/epoch151_real_A.png)    ----> ![image](5_14/img/epoch151_fake_B.png)    ----> ![image](5_14/img/epoch151_rec_A.png)
+![image](5_14/img/epoch150_real_A.png)    ----> ![image](5_14/img/epoch150_fake_B.png)    ----> ![image](5_14/img/epoch150_rec_A.png)
 
   - epoch 200:
 
