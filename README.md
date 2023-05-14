@@ -32,8 +32,8 @@ A project to transfer the wireframe style building into realistic style
 ![image](5_14/img/epoch200_real_A.png)    ----> ![image](5_14/img/epoch200_fake_B.png)    ----> ![image](5_14/img/epoch200_rec_A.png)
 
 - Things to improve
-  - The generated images are still have a distance to the real life images, part because:
-    - Quality of training dataset is not good enough (the outside appearance that I selected from modern-architecture-100k-small-images are not good)
+  - The generated images are still have a distance to the real life images, partly because:
+    - Quality of training dataset is not good enough (the outside appearance that I selected from modern-architecture-100k-small-images are not perfect)
     - Quantity of the data are not enough.
     - Add training epoch times?
 
