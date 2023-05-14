@@ -9,7 +9,7 @@ A project to transfer the wireframe style building into realistic style
 
 - Training Process
 
-  - I would like to show just one side of this cycle-Gan model in this part (changing wireframe style buildings into reality ones). You can simply reckon that the wireframe building model (real_A.png) would firstly generated into fake_B.png by Generator1, and then by using the Generator2, the fake_B.png would changed into rec_A.png. By comparing the loss between real_A.png and rec_A.png, we would consider if the generator1 can get a 'similar' output with the input image. Here is the sample generated process during the training.
+  - I would like to show just one side of this cycle-Gan model in this part (changing wireframe style buildings into reality ones). You can simply reckon that the wireframe building model (real_A.png) would firstly generated into fake_B.png by Generator1, and then by using the Generator2, the fake_B.png would changed into rec_A.png. By comparing the loss between real_A.png and rec_A.png, we would consider if the generator1 can get a 'similar' output with the input image. Here is the sample generated process during the training. [model files are too big to be able upload orz, so I just uploaded the training process .txt files]
  
   - epoch 1:
 
