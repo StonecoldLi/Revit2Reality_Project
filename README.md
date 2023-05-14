@@ -32,13 +32,11 @@ A project to transfer the wireframe style building into realistic style
 ![image](5_14/img/epoch200_real_A.png)    ----> ![image](5_14/img/epoch200_fake_B.png)    ----> ![image](5_14/img/epoch200_rec_A.png)
 
 - Things to improve
-- 5.14
   - The generated images are still have a distance to the real life images, part because:
     - Quality of training dataset is not good enough (the outside appearance that I selected from modern-architecture-100k-small-images are not good)
     - Quantity of the data are not enough.
     - Add training epoch times?
 
 - Problems to solve
-- 5.14
   - Seems that https://www.kaggle.com/datasets/wwymak/architecture-dataset is a greater dataset to select training data from.
   - Maybe we need to filter the dark mode pictures firstly.
