@@ -1,5 +1,5 @@
 # Revit2Reality_Project[SamLi]
-A project to transfer the wireframe style building into realistic style
+A project aims to transfer the wireframe style building into realistic style
 
 ## All the process is based on Cycle-GAN
 
