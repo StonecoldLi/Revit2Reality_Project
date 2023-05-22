@@ -40,3 +40,10 @@ A project to transfer the wireframe style building into realistic style
 - Problems to solve
   - Seems that https://www.kaggle.com/datasets/wwymak/architecture-dataset is a greater dataset to select training data from.
   - Maybe we need to filter the dark mode pictures firstly.
+
+### 2) 5.21
+
+- Attempting to get a better result, I added more realistic building images from the architecture-dataset from kaggle (https://www.kaggle.com/datasets/wwymak/architecture-dataset) to trainB and fitered several weird buildings' images (totally 5757 images). For trainA set, I just used Data_Augmentation technique to get nearly 4000 images from Revit wireframe style. 
+- The results are shown as follow:
+
+  - epoch 1:
