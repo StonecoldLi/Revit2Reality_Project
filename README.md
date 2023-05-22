@@ -73,10 +73,10 @@ A project to transfer the wireframe style building into realistic style
 
   ![image](5_14/img/epoch200_real_A.png)    ----> ![image](5_14/img/epoch200_fake_B.png) ----> ![image](5_21/imgs/epoch200_real_A_fake_B.png)
   
-    - Example 2:
+  - Example 2:
 
   ![image](5_21/imgs/test1_real_A.png)    ----> ![image](5_21/imgs/test1_fake_B.png) ----> ![image](5_21/imgs/test1_fake_B2.png)
   
-    - Example 3:
+  - Example 3:
 
   ![image](5_21/imgs/test4_real_A.png)    ----> ![image](5_21/imgs/test4_fake_B.png) ----> ![image](5_21/imgs/test4_fake_B2.png)
