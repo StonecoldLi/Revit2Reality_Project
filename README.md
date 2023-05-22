@@ -47,3 +47,21 @@ A project to transfer the wireframe style building into realistic style
 - The results are shown as follow:
 
   - epoch 1:
+
+![image](5_21/imgs/epoch001_real_A.png)    ----> ![image](5_21/imgs/epoch001_fake_B.png)    ----> ![image](5_21/imgs/epoch001_rec_A.png)
+
+  - epoch 49:
+
+![image](5_21/imgs/epoch049_real_A.png)    ----> ![image](5_21/imgs/epoch049_fake_B.png)    ----> ![image](5_21/imgs/epoch049_rec_A.png)
+
+  - epoch 99:
+
+![image](5_21/imgs/epoch099_real_A.png)    ----> ![image](5_21/imgs/epoch099_fake_B.png)    ----> ![image](5_21/imgs/epoch099_rec_A.png)
+
+  - epoch 149:
+
+![image](5_21/imgs/epoch149_real_A.png)    ----> ![image](5_21/imgs/epoch149_fake_B.png)    ----> ![image](5_21/imgs/epoch149_rec_A.png)
+
+  - epoch 200:
+
+![image](5_21/imgs/epoch200_real_A.png)    ----> ![image](5_21/imgs/epoch200_fake_B.png)    ----> ![image](5_21/imgs/epoch200_rec_A.png)
