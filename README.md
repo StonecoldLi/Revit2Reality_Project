@@ -5,7 +5,7 @@ A project aims to transfer the wireframe style building into realistic style
 
 ### 1) 5.14
 - Abstract
-  - Collected the wireframe style buildings' data (Screenshot from the .rvt file) and architecture images in real life (part from https://www.kaggle.com/datasets/tompaulat/modern-architecture-100k-small-images) as the training dataset [About 1400 images for each datasets, by using the horizontally filpped data augmentation method]. Using the sample code provided on Cycle-GAN Github, I got the final model after 200 times epoch (About 10 hours training on Nvidia-RTX3080).
+  - I have collected the wireframe style buildings' data (Screenshot from the .rvt file) and architecture images in real life (part from https://www.kaggle.com/datasets/tompaulat/modern-architecture-100k-small-images) as the training dataset [About 1400 images for each datasets, by using the horizontally filpped data augmentation method]. Using the sample code provided on Cycle-GAN Github (officially coded by Junyan Zhu etc.), I got the final model after 200 times epoch (About 10 hours training on Nvidia-RTX3080).
 
 - Training Process
 
@@ -43,7 +43,7 @@ A project aims to transfer the wireframe style building into realistic style
 
 ### 2) 5.21
 
-- Attempting to get a better result, I added more realistic building images from the architecture-dataset from kaggle (https://www.kaggle.com/datasets/wwymak/architecture-dataset) to trainB and filtered several weird buildings' images (totally 5757 images). For trainA set, I just used Data_Augmentation technique to get nearly 4000 images from Revit wireframe style. (About 49 hours training on Nvidia-RTX3080)
+- Attempting to get a better result, I added more realistic building images from the architecture-dataset from kaggle (https://www.kaggle.com/datasets/wwymak/architecture-dataset) to trainB and filtered several weird buildings' images (totally 5757 images about 4 times larger than the previous model). For trainA set, I just used Data_Augmentation technique to get nearly 4000 images from Revit wireframe style. (About 49 hours training on a single Nvidia-RTX3080)
 - The results are shown as follow:
 
   - epoch 1:
