@@ -80,3 +80,5 @@ A project aims to transfer the wireframe style building into realistic style
   - Example 3:
 
   ![image](5_21/imgs/test4_real_A.png)    ----> ![image](5_21/imgs/test4_fake_B.png) ----> ![image](5_21/imgs/test4_fake_B2.png)
+  
+  - The quality of the output images seemed to be better ,huf.
